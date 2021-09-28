@@ -1,5 +1,10 @@
-### Hi there 👋  <div align =right>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeejunmyung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-</div>
+<h2> Hi I'm Junmyung🖐<h2>
+<a href="https://velog.io/@wnsaud9322">
+    <img 
+        src="http://img.shields.io/badge/-Velog-2222222?style=flat&logo=Vonage&link=https://velog.io/@wnsaud9322"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 [![Leejunmyung GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejunmyung&show_icons=true&theme=nightowl)](https://github.com/Leejunmyung/github-readme-stats)
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejunmyung&layout=compact&theme=material-palenight&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
