@@ -1,7 +1,7 @@
-### Hi, I'm Junmyung 👋
+### Hi, I'm Junmyung
 
 
-### 🧰 Stack
+### Stack
 
 `TypeScript` `React` `Next.js` `Flutter` `Dart` `Supabase`
 
